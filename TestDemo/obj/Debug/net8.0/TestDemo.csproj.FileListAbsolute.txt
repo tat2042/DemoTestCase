@@ -1,0 +1,14 @@
+E:\API\TestDemo\TestDemo\bin\Debug\net8.0\TestDemo.exe
+E:\API\TestDemo\TestDemo\bin\Debug\net8.0\TestDemo.deps.json
+E:\API\TestDemo\TestDemo\bin\Debug\net8.0\TestDemo.runtimeconfig.json
+E:\API\TestDemo\TestDemo\bin\Debug\net8.0\TestDemo.dll
+E:\API\TestDemo\TestDemo\bin\Debug\net8.0\TestDemo.pdb
+E:\API\TestDemo\TestDemo\obj\Debug\net8.0\TestDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\API\TestDemo\TestDemo\obj\Debug\net8.0\TestDemo.AssemblyInfoInputs.cache
+E:\API\TestDemo\TestDemo\obj\Debug\net8.0\TestDemo.AssemblyInfo.cs
+E:\API\TestDemo\TestDemo\obj\Debug\net8.0\TestDemo.csproj.CoreCompileInputs.cache
+E:\API\TestDemo\TestDemo\obj\Debug\net8.0\TestDemo.dll
+E:\API\TestDemo\TestDemo\obj\Debug\net8.0\refint\TestDemo.dll
+E:\API\TestDemo\TestDemo\obj\Debug\net8.0\TestDemo.pdb
+E:\API\TestDemo\TestDemo\obj\Debug\net8.0\TestDemo.genruntimeconfig.cache
+E:\API\TestDemo\TestDemo\obj\Debug\net8.0\ref\TestDemo.dll
